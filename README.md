@@ -47,7 +47,7 @@ Installation
 
 Clone the repository:
 
-git clone
+git clone https://github.com/euii-ii/lazarev-clone.git
 
 Navigate to the project folder:
 bash
